@@ -1,0 +1,67 @@
+{"basics" : [{
+
+  "name": "Prasanth G",
+  "email": "kuttyprasanth271296@gmail.com",
+  "phone": "8973849423",
+  "degree": "bcom(ca)",
+  "website": "Your website URL",
+  "summary": "I am a passionnate webdevloper ."}]
+ 
+
+
+, "location": [
+        { 
+        "address": "15/16 sasi mahal",
+        "postalCode": 638311,
+        "city": "Erode",
+        "state": "Tamilnadu",
+        "country": "India"
+      }
+    ],
+      "profiles": [
+        {
+          "website": "kuttyprasanth@com",
+          "github":"https://github.com/PrasanthProdeveloper"
+        }
+      ],
+
+    "work": [
+      {
+        "company": "The Photophilehub PVT",
+        "position": "Business Executive",
+        "startDate": "2020-11-04",
+        "endDate": "2023-08-15",
+        "summary": "i am the business executive handling various task and gaining lots of experience"
+      }
+    ],
+    "education": [
+      {
+        "institution": "periyar university",
+        "department": "arts",
+        "studyType": "fulltime",
+        "batch start year": 2014,
+        "batch end year": 2017,
+        "gpa": 7.5
+      }
+    ],
+    "skills": [
+      {
+        "name": "python,javascript",
+        "level": "beginer",
+        "project": [
+          "automatic attendance maintaing system using js language"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish"
+      
+}],
+    "interests": [
+      {
+        "name": "script writter,developer,youtuber,"
+      }
+    ]
+  }
+  
